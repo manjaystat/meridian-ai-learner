@@ -1,5 +1,6 @@
 # Meridian AI  
 
+
 A small web app that does two jobs, using AI: 
  
 1. **Ask questions about your documents.** Upload PDFs (policies, contracts, reports), then ask in plain English. The app answers using only what is in your documents.
